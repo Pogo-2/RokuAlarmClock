@@ -1,0 +1,11 @@
+{
+  "ask_to_search": true,
+  "save_device_list": true,
+  "ask_to_select": true,
+  "selected_host": "",
+  "selected_ip": "",
+  "selected_mac": "",
+  "youtube_ids": ["IH6p2AbANSM"],
+  "alarm note" : "Set this alarm in military time",
+  "alarm_time": "16:11"
+}
