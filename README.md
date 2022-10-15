@@ -1,6 +1,6 @@
 # Roku Morning Alarm
 
-###What is the point
+### What is the point
 As of recent I as a developer have adopted the ways of self-improvement and one of the
 ways I plan to do that is to constantly stay motivated and reminded for what I am doing this for one of the ways I plan
 on doing this is having specific YouTube videos cast to my roku tv at a certain time every morning.
