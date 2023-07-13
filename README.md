@@ -10,5 +10,5 @@ This will be done in a few steps
  - Locate add set primary roku device you want to use
  - define watch list of YouTube videos/ spotify songs you want to play
  - define the time/times you want the program to execute
- - let her run in the background
+ - let it run in the background
 
